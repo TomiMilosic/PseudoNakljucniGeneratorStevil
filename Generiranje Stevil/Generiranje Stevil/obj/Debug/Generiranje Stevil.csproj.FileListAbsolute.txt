@@ -1,0 +1,10 @@
+C:\Users\Tomi\source\repos\Generiranje Stevil\Generiranje Stevil\bin\Debug\Generiranje Stevil.exe.config
+C:\Users\Tomi\source\repos\Generiranje Stevil\Generiranje Stevil\bin\Debug\Generiranje Stevil.exe
+C:\Users\Tomi\source\repos\Generiranje Stevil\Generiranje Stevil\bin\Debug\Generiranje Stevil.pdb
+C:\Users\Tomi\source\repos\Generiranje Stevil\Generiranje Stevil\obj\Debug\Generiranje Stevil.csprojAssemblyReference.cache
+C:\Users\Tomi\source\repos\Generiranje Stevil\Generiranje Stevil\obj\Debug\Generiranje_Stevil.Form1.resources
+C:\Users\Tomi\source\repos\Generiranje Stevil\Generiranje Stevil\obj\Debug\Generiranje_Stevil.Properties.Resources.resources
+C:\Users\Tomi\source\repos\Generiranje Stevil\Generiranje Stevil\obj\Debug\Generiranje Stevil.csproj.GenerateResource.cache
+C:\Users\Tomi\source\repos\Generiranje Stevil\Generiranje Stevil\obj\Debug\Generiranje Stevil.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\source\repos\Generiranje Stevil\Generiranje Stevil\obj\Debug\Generiranje Stevil.exe
+C:\Users\Tomi\source\repos\Generiranje Stevil\Generiranje Stevil\obj\Debug\Generiranje Stevil.pdb
