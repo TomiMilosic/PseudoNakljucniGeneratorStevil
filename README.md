@@ -17,7 +17,7 @@ Implementacija matematične funkcije, ki vsebuje parametre y(x), x in T.
 Možnost generiranja naslednjega (realnega) psevdo-naključnega števila,
 Možnost generiranja naslednjih 10, 100, 1.000, 10.000, oz. poljuben nabor psevdo-naključnih števil,
 Zapisovanje generiranih števil v tekstovno datoteko,
-Risanje grafa frekvenčne porazdelitve generiranih števil.ć
+Risanje grafa frekvenčne porazdelitve generiranih števil.
 
 
 Primer programa: 
