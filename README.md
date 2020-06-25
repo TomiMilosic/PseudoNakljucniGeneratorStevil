@@ -1,4 +1,4 @@
-# Pseudo nakljucni generator stevil
+# Psevdo-naključni generatorji števil
 
 Navodila naloge:
 
