@@ -1,3 +1,5 @@
+# Pseudo nakljucni generator stevil
+
 Navodila naloge:
 
 Izdelajte program za generiranje psevdo-naključnih števil.
